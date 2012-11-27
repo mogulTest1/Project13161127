@@ -13,8 +13,8 @@
 %>
 
 <!DOCTYPE html>
-<html>/
-/<head>
+<html>
+<head>
     <title>JabbR change 4</title>
     <meta http-equiv="X-UA-Compatible" content="IE=9" />
     <meta name="description" content="A real-time chat application." />
